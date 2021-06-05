@@ -6,5 +6,5 @@ hold on
 plot(Tg_sensor, '-*')
 title('Comparativa temperatura globo')
 legend('Testo480', 'Sensor fabricado')
-xlabel('Nº medidas')
-ylabel('Temperatura globo (ºC)')
+xlabel('NÂº medidas')
+ylabel('Temperatura globo (ÂºC)')
