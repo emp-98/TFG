@@ -6,5 +6,5 @@ hold on
 plot(Ts_sensor, '-*')
 title('Comparativa temperatura seca del sensor de temperatura operativa')
 legend('Testo720', 'DHT22')
-xlabel('Nº medidas')
-ylabel('Temperatura seca (ºC)')
+xlabel('NÂº medidas')
+ylabel('Temperatura seca (ÂºC)')
