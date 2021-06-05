@@ -9,4 +9,4 @@ Se han seguido los pasos descritos en este vídeo de YouTube: https://www.youtub
 Además, se incluyen las tablas y gráficas de los datos almacenados en la tarjeta microSD de cada una de las ubicaciones elegidas (bar, casa-cueva y sótano).
 
 # MatLab
-En esta carpeta se encuentran los scripts en lenguaje MatLab utilizados para la representación de las medidas obtenidas en los ensayos de calibración.
+En esta carpeta se encuentran los scripts en lenguaje MatLab utilizados para la representación de las medidas obtenidas en los ensayos de calibración de los sensores de luminosidad y temperatura operativa. Para este último, los datos de temperatura seca, temperatura de globo y humedad relativa de globo.
