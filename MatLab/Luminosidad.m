@@ -6,5 +6,5 @@ hold on
 plot(Lum_sensor, '-*')
 title('Comparativa luminosidad')
 legend('Testo480', 'TSL2591')
-xlabel('Nº medidas')
+xlabel('NÂº medidas')
 ylabel('Luminosidad (lux)')
