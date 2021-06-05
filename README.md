@@ -1,5 +1,5 @@
 # Arduino
-Cada uno de los códigos empleados durante la elaboración de este proyecto en el IDE de Arduino (calibración, comparativa de sensores de CO₂: CCS811 y MH-Z14A, puesta en marcha del RTC DS3231 y programa principal de la NodeMCU v3) se encuentran en esta carpeta.
+Cada uno de los códigos empleados durante la elaboración de este proyecto en el IDE de Arduino (calibración de los sensores de luminosidad y temperatura operativa, comparativa de sensores de CO₂: CCS811 y MH-Z14A, puesta en marcha del RTC DS3231 y programa principal de la NodeMCU v3) se encuentran en esta carpeta.
 
 # Excel
 En este archivo se muestran las tablas y gráficas Excel realizadas para el ajuste de los sensores de luminosidad y temperatura operativa. Para exportarlas desde Excel a LaTex (plataforma utilizada para el desarrollo de la memoria de este TFG) se ha instalado el complemento ''Excel2Latex.xla'' en este enlace: https://www.ctan.org/tex-archive/support/excel2latex/.
